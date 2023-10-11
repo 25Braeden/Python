@@ -1,6 +1,3 @@
-#Robin Paranilam
-#Turtle Polygons
-
 import turtle
 
 shapecolor = input("What color do you want the shape to be")
