@@ -1,4 +1,3 @@
-#Robin Paranilam
 print("Celsius", '\t', "Fahrenheit")
 print("---", '\t', '\t', "-----")
 x = 0
