@@ -1,6 +1,3 @@
-#Robin Paranilam
-
-
 import turtle
 import random
 wn = turtle.Screen()
