@@ -1,5 +1,3 @@
-#Robin Paranilam
-
 first = input("Please enter a sentence ")
 
 second = first.split
